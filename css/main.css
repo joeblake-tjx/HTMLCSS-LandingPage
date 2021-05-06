@@ -64,6 +64,12 @@ section {display: flex;}
 }
 
 .text-secondary{
-    
+    font-size:30px;
+    color: #faa541;
+}
+
+.text-primary{
+    font-size:16px;
+    color: #364147;
 }
 /***************************************/
